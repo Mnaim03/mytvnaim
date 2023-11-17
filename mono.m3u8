@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1,MTV
-https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=0b63109894892f0a4da2182bbcd84ebeefef0c01-a05356e5099010913b9a452110b4ecf3-1700194183-1700183383
 #EXTINF:-1,Al Jadeed
 https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=470d0368f27c86183ff0d41f74d7b537b491c9b3-c205a6663a1ed9b365e99dc34df5e567-1700184928-1700174128
 #EXTINF:-1,Al LBCI
 http://54.167.175.109/index.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8?st=7GA7_6z9t8mTMZSa7zIIrw&e=1700217840
-#EXTINF:-1,Al MTV
+#EXTINF:-1,MTV
 https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=49a6e75afe4b8a84028e7b53b844a7b5d4a790c9-e2abdf79548c5b6e98521066cd31fdca-1700185174-1700174374
 #EXTINF:-1,Al Ittihad
 https://live.alittihad.tv:444/ittihad/chunklist_w1498429300.m3u8
