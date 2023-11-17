@@ -35,3 +35,13 @@ https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=
 https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=e190b51a6a615c69bdc7f3464bd8c6bb992788a7-6dc583ecbddcb06357ad06ca7d74e6ab-1700192262-1700181462
 #EXTINF:-1,MBC Drama
 https://iptvcat.com/my_list/s/fd96c039bdf8b8f26aac659e005ff99b.m3u8
+#EXTINF:-1,beIN AR 1
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1,beIN AR 2
+https://stream.ayas.ir/hls2/bein2.m3u8
+#EXTINF:-1,beIN AR 3
+https://stream.ayas.ir/hls2/bein3.m3u8
+#EXTINF:-1,beIN AR 4
+https://stream.ayas.ir/hls2/bein4.m3u8
+#EXTINF:-1,beIN AR 5
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_5
