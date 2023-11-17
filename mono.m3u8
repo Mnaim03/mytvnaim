@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Al Jadeed
 https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=4335dd168bb838e07da0262b4903e7bb707c7b12-770806afac5a91dee06cb7a5e9775a6f-1700215181-1700204381
-#EXTINF:-1,Al LBCI
+#EXTINF:-1,LBCI
 http://54.167.175.109/index.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8?st=7GA7_6z9t8mTMZSa7zIIrw&e=1700217840
 #EXTINF:-1,MTV
 https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=2cbf16d2c854a6ffbcdcdd269548d360a3e2f435-9d12539ca6326a2125b7535af7343a5a-1700215228-1700204428
@@ -15,10 +15,8 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t
 http://54.167.175.109/index.php/https://mysat-live.ercdn.net/futureint/futureint_576p.m3u8?st=qbIilEVgQ2zbiBf73EfO6Q&e=1700217966
 #EXTINF:-1,OTV
 http://54.167.175.109/index.php/https://mysat-live.ercdn.net/otv/otv_720p.m3u8?st=a266y7hJsm6bkOkmYX9fqA&e=1700217996
-#EXTINF:-1,Al Jazzera
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1,Al Jazzera Arabic
-https://iptvcat.com/my_list/s/e5468d66cb16d4f83185a1114edb5bba.m3u8
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1,Al Jazzera Live
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1,National Geographic Abu Dhabi
