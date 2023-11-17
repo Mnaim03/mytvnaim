@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Al Jadeed
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=470d0368f27c86183ff0d41f74d7b537b491c9b3-c205a6663a1ed9b365e99dc34df5e567-1700184928-1700174128
+#EXTINF:-1,Al LBCI
+http://54.167.175.109/index.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8?st=7GA7_6z9t8mTMZSa7zIIrw&e=1700217840
+#EXTINF:-1,Al MTV
+https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=49a6e75afe4b8a84028e7b53b844a7b5d4a790c9-e2abdf79548c5b6e98521066cd31fdca-1700185174-1700174374
+#EXTINF:-1,Al Ittihad
+https://live.alittihad.tv:444/ittihad/chunklist_w1498429300.m3u8
+#EXTINF:-1,NBN
+https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=8cab72d830ff6ad8c240dc6a7b2f0f7bc5eef120-f608abf5d34e68806720a2f49d863de3-1700185220-1700174420
+#EXTINF:-1,Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
+#EXTINF:-1,Al Mustakbal
+http://54.167.175.109/index.php/https://mysat-live.ercdn.net/futureint/futureint_576p.m3u8?st=qbIilEVgQ2zbiBf73EfO6Q&e=1700217966
+#EXTINF:-1,OTV
+http://54.167.175.109/index.php/https://mysat-live.ercdn.net/otv/otv_720p.m3u8?st=a266y7hJsm6bkOkmYX9fqA&e=1700217996
+#EXTINF:-1,Al Jazzera
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1,Al Jazzera Arabic
+https://iptvcat.com/my_list/s/e5468d66cb16d4f83185a1114edb5bba.m3u8
+#EXTINF:-1,National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
+#EXTINF:-1,Al Manar
+https://iptvcat.com/my_list/s/760fe5b26bb19e8461f72fb3a0355e8c.m3u8
+#EXTINF:-1,Red Bull TV
+https://iptvcat.com/my_list/s/dbd90f243eb63ee51295a75996a90bce.m3u8
