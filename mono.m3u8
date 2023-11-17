@@ -27,8 +27,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000
 https://iptvcat.com/my_list/s/760fe5b26bb19e8461f72fb3a0355e8c.m3u8
 #EXTINF:-1,Red Bull TV
 https://iptvcat.com/my_list/s/dbd90f243eb63ee51295a75996a90bce.m3u8
-#EXTINF:-1,Rotana Cinema KSA FHD
-https://iptvcat.com/my_list/s/17889271287bc323de6b9042d9f7af20.m3u8
+#EXTINF:-1,Rotana Cinema FHD
+https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 #EXTINF:-1,MBC 2
 https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=700af58dacf4e98612c19f16d367d53021ebd5fb-bbcb8226b74341b7d0589da82528f0b4-1700215323-1700204523
 #EXTINF:-1,MBC MAX
