@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,MTV
+https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=0b63109894892f0a4da2182bbcd84ebeefef0c01-a05356e5099010913b9a452110b4ecf3-1700194183-1700183383
 #EXTINF:-1,Al Jadeed
 https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=470d0368f27c86183ff0d41f74d7b537b491c9b3-c205a6663a1ed9b365e99dc34df5e567-1700184928-1700174128
 #EXTINF:-1,Al LBCI
@@ -19,7 +21,7 @@ http://54.167.175.109/index.php/https://mysat-live.ercdn.net/otv/otv_720p.m3u8?s
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1,Al Jazzera Arabic
 https://iptvcat.com/my_list/s/e5468d66cb16d4f83185a1114edb5bba.m3u8
-#EXTINF:-1,Al Jazzera Live 
+#EXTINF:-1,Al Jazzera Live
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1,National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
