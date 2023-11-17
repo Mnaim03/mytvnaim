@@ -52,4 +52,5 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1,AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1,MAX PROVA
-https://www.elahmad.com/tv/watchtv.php?id=mbc_max
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1430000,BANDWIDTH=1780000,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.64001e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+tracks-v1a1/mono.m3u8?token=cb6d30089a61a166e5cc5a911e939d28ae115a2c-0789de219382a97a18f459b790be1d03-1700230385-1700219585
