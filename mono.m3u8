@@ -47,6 +47,8 @@ https://stream.ayas.ir/hls2/bein4.m3u8
 https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_5
 #EXTINF:-1,SSC 1
 https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1,SSC 2
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index_video_6_0_5919106.mp4?m=1699784080
 #EXTINF:-1,AD Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1,AD Sports 2
