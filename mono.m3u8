@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Al Jadeed
-https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=19638431e5106caf717de4907d8f7d3784660529-6d7307d4a3c8fe50e83f9de181ad8cec-1700322105-1700311305
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=a4f73689fe81bf9058ad7ffa3f3b632abdcf0b72-38abfd846ec2b9bf650373ed3737ec5b-1700349639-1700338839
 #EXTINF:-1,LBCI
-https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=505a48443964373ec429383b35d31c33176058ec-3b7d6b1c8cb2b319ad7db583fb0d95a0-1700322122-1700311322
+https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=c9963a096117c96c27a47801345541039e0baefa-8a72240cb13aa0d50b9f0daa68413f94-1700349726-1700338926
 #EXTINF:-1,MTV
-https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=21b8264e36cef2116a4a83215c85d351abeb2905-4e813d1669b61764a5ceaf76039a8dbc-1700322157-1700311357
+https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=f98e2eaecd81b2a2bf32b75e31d88994142f406f-4b1a8f0ccd0ff6e03bcb17f144773f16-1700349698-1700338898
 #EXTINF:-1,Al Ittihad
 https://live.alittihad.tv:444/ittihad/chunklist_w32595751.m3u8
 #EXTINF:-1,NBN
-https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=e993779bcf5558f18f2a7f94ee42274a06471c5a-0a8706a048df370ea968c2904f5d33f3-1700322174-1700311374
+https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=9799ec9ae7666e1612146cdf727c5bb4e94c9f54-e14ab448d94d060ee85cce2782a01054-1700349736-1700338936
 #EXTINF:-1,Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 #EXTINF:-1,Al Mustakbal
@@ -28,11 +28,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,Rotana Cinema FHD
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 #EXTINF:-1,MBC 2
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=cce7c7867facd02f44359f75be04ef43d9339498-6abedd63f656e846ef096e49d15e6130-1700322233-1700311433
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=18f1e30ec4481f6748ec7fe4beb6d7b9798d93b4-dc43585e7ec85071a5a01bcae6a5b379-1700349767-1700338967
 #EXTINF:-1,MBC MAX
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=1b21200b8c15b6c0cd121ee4270b1908bdcbf992-8f16c358a8dab7a7f1fd64b67b970c49-1700322247-1700311447
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=b0c440a6c77edf8e340634e1395ea3ee8ec3e0bb-5151b1c04b62d457514befff0301bfed-1700349782-1700338982
 #EXTINF:-1,MBC Action
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=ee46cf898882d5c1ab445ea4bb0d15f3a2b54b39-989e9f3f723c548ed90b2750836bfc14-1700322261-1700311461
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=c424790996954a9b18ce8aa6ff240cf6d0c7db13-03c0dc98ff2f6330eee8f345bcc3b10c-1700349796-1700338996
 #EXTINF:-1,MBC Drama
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 #EXTINF:-1,beIN AR 1
