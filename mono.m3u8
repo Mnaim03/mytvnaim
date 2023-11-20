@@ -1,24 +1,21 @@
 #EXTM3U
-#EXTINF:-1,Al Jadeed
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG"
+#EXTINF:-1,tvg-id="Al Jadeed" tvg-name="Al Jadeed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG"
 https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=38b5344e6fffee36a5d15d0c6cc2f974bc075d9e-bd664610bb175193fbb62658ac2d158a-1700492351-1700481551
 
-#EXTINF:-1,LBCI
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png"
+#EXTINF:-1,tvg-id="LBCI" tvg-name="LBCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png"
 https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=79c7796ad31af59b88eb4286bfd40a03f12a231a-ed1fe5354c3b6a202fe91f27feee2619-1700492506-1700481706
 
-#EXTINF:-1,MTV
-tvg-logo="https://www.mtv.com.lb/Content/images/logo-mtv.png"
+#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://www.mtv.com.lb/Content/images/logo-mtv.png"
 https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=c68191ead442c73bb4f8027e6a4e109267c85b62-1ad3cb0a661e8b7ec9468c5f72ef4f30-1700492517-1700481717
 
-#EXTINF:-1,Al Ittihad
+#EXTINF:-1,tvg-id="al ittihad" tvg-name="al ittihad"
 https://live.alittihad.tv:444/ittihad/chunklist_w32595751.m3u8
 
-#EXTINF:-1,NBN
+#EXTINF:-1,tvg-id="NBN" tvg-name="NBN"
 tvg-logo="https://keyproduction.tv/wp-content/uploads/2019/07/nbn-1.png"
 https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=1b7915f599a81a6e7df42b87ea874b914f897cb8-534b6aa8a5ae83c38b51b1e10b9508b7-1700492675-1700481875
 
-#EXTINF:-1,Al Mayadeen
+#EXTINF:-1,tvg-id="Al mayadeen" tvg-name="Al mayadeen"
 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0a/Al_mayadeen.png/revision/latest?cb=20220222132611&path-prefix=vi"
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 
