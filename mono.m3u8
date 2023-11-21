@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG", Al Jadeed
-https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=183294237d9455fa5908fcef9c1e48b56a35cefd-832f92e92be4b55dfcffb5ac983f44fe-1700558179-1700547379
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=702958c2d93007039b3f0c787da3c62420a800f4-39af498db9061aa17a5395f395ecee37-1700578071-1700567271
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png", LBCI
-https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=a31d146a12439e6c4c4d80f396b782adb1ad41ad-6e150372a0862334d508862caea2543a-1700558191-1700547391
+https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=c7b06db9f8ed06aa29915f4fae78b5b5617aa24d-9a64ced6d7f8610a496b16804b0e769c-1700578084-1700567284
 
 #EXTINF:-1 tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png", MTV
-https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=34b8f5ecb1a4dfd6d27f11e66cac5756d1e0e8f4-67d11f614e56495c6fa4f6b79163252f-1700558199-1700547399
+https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=c0ce521f73deafe8ef0f236e9bc5e62d8adc028e-6ab4bcbec920ad25cb713fc9a1e0ea0c-1700578101-1700567301
 
 #EXTINF:-1,Al Ittihad
 https://live.alittihad.tv:444/ittihad/chunklist_w32595751.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/NBN_LOGO_2016.png", NBN
-https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=454fa06acdaf3c1b1057654a8f3e5d6362e0faed-511a78705c5463a666a64a5d9c506556-1700528784-1700517984
+https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=ae78e9a0ae242a950780f707c406ec551a816594-6dccc09db8266a18c1f99675fdef3357-1700578117-1700567317
 
 #EXTINF:-1,Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
@@ -42,16 +42,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png", MBC 2
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=896b68eaa20b773fc8c513153886d313c3ba2eb9-b5bb3ab1f1dc703aeccd704fe69ed345-1700558242-1700547442
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=6e725ea30b0bf5857fcb176c0e64041584082f93-e101c96008a8fcbd4e738ba1fa2531ad-1700578168-1700567368
 
 #EXTINF:-1 tvg-logo="https://televisor.top/uploads/posts/vreyerhthberh54.png", MBC MAX
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=2bdcb860123023507fa5708cc6bafe4ffe4c2e42-e74197ba67ece6a5d6249e82068b3198-1700558253-1700547453
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=6805dfe424507ca4721ef0aed787ea1d14bc7573-d95667e1efaca72125e5eea684970bef-1700578185-1700567385
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png", MBC Action
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=cc1decc8966ca6d2f69f5056b43beb7e6397dadf-65a967aaf3d5529806431d335e9a178a-1700558264-1700547464
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=309085573c292f18cdeea3c5d39c51fee7608355-b78fcf5698272124046f99dc1e757e44-1700578197-1700567397
 
 #EXTINF:-1,MBC Drama
-https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png", beIN AR 1
 https://stream.ayas.ir/hls2/bein1.m3u8
