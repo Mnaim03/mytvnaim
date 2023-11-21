@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG", Al Jadeed
-https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=2fc74ce4f6a5a4a661be9c098cc710c69ab1cc26-d1ce25963c33225d1dc88bdcce456dda-1700594103-1700583303
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=0bd2be2ff27fc8a6bac1141dd7d244d84142b887-4489003c5b5c3d0e7a06258e46612768-1700609415-1700598615
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png", LBCI
-https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=b7623bc1981fc637aea08e320194ef0a06b49a36-8ae9f14a420fdb432b10b406f3880c5a-1700594118-1700583318
+https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=bb6fe00405ec167e4b437ef2680138286f24e106-50383eb99b8d141a9e718e54986eab83-1700609425-1700598625
 
 #EXTINF:-1 tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png", MTV
-https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=529beb29af93a0901da3cbdb16e38048087c20ec-0da19addf8591e91926aaefe13e16849-1700594131-1700583331
+https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=a85f340952c0b9a7343290020133b2e467718c34-fbfa6b8e6b2cb75cb080f12a1e1e57aa-1700609434-1700598634
 
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/alittihad.png",Al Ittihad
 https://live.alittihad.tv:444/ittihad/chunklist_w32595751.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/NBN_LOGO_2016.png", NBN
-https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=dedc6efe2710ba97c6591b2bf9f1bb6a8770bb2e-b899721437aa165304cb94abf4f445d3-1700594145-1700583345
+https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=e972cbeb7d103da24211ed1f6bb77f3a693f64f3-f6ebc6436370ee7989813508c46a0ba6-1700609444-1700598644
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0a/Al_mayadeen.png/revision/latest?cb=20220222132611&path-prefix=vi",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
@@ -42,13 +42,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png", MBC 2
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=4cdd99af56053600bb427d5407a8bae7f38c8a77-82c510a1f0a6056480e7c8efda5d2930-1700594250-1700583450
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=26db25a27f1078627f685b44896e55bf38943aa4-af8f7504523de048baad2214a34b888a-1700609465-1700598665
 
 #EXTINF:-1 tvg-logo="https://televisor.top/uploads/posts/vreyerhthberh54.png", MBC MAX
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=e63370dd5c9983c6e7c409297b4d17528e13e27b-4e6408e9a26c272544709d9ef0a794d8-1700594264-1700583464
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=867c32289c2dde22d6bb08c6ae17f80e99fa7c34-68d673ca14b6c54fc97e5d9c4b85ff9b-1700609482-1700598682
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png", MBC Action
-https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=420327ba3e8ccf049b245c514bb7890ac69eec63-66a1833accaadfd7590a166b18d00230-1700594276-1700583476
+https://tv.ipslow.com/tv487_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=2006c8ca9e0a9778507dedf3f48d3a01ef4f1a66-c7e1308e9a85d58b75ff18cb77210c4f-1700609494-1700598694
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mbc-drama-logo-2EE963647C-seeklogo.com.png",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
