@@ -69,5 +69,5 @@ https://www.elahmad.com/tv/mobiletv/glarb.php?id=bein_m_5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1200px-SSC_TV_logo.svg.png",SSC 1
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1696000
 https://raw.githubusercontent.com/Mnaim03/mytvnaim/main/ssc2.m3u8
