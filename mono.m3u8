@@ -1,43 +1,43 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG", Al Jadeed
+#EXTINF:-1 group-title="MBC "vg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG", Al Jadeed
 https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=088c5f1c7cc91f27d2ddef15aafeda9b4b309bf9-cf63ac92dd17f5d4061aeff1ab58bf66-1700696957-1700686157
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png", LBCI
+#EXTINF:-1  group-title="MBC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LBCI_HD_logo.png/640px-LBCI_HD_logo.png", LBCI
 https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=31bdd18475e25eec77561310350596d72f804bae-0a9fb86825f101f7122170945eebc82e-1700696966-1700686166
 
-#EXTINF:-1 tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png", MTV
+#EXTINF:-1  group-title="MBC tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png", MTV
 https://tv.ipslow.com/tv487_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=84d9d54ab8852c984636e6010448875ea1c46fa0-f52ba876127cffe8d87002dc419b41e6-1700696982-1700686182
 
-#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/alittihad.png",Al Ittihad
+#EXTINF:-1  group-title="MBC tvg-logo="https://qanawat.taghtia.com/assets/channels/alittihad.png",Al Ittihad
 https://live.alittihad.tv:444/ittihad/chunklist_w32595751.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/NBN_LOGO_2016.png", NBN
+#EXTINF:-1  group-title="MBC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/NBN_LOGO_2016.png", NBN
 https://tv.ipslow.com/tv487_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=5bd96860fc92e78b3c22b508579afb6e1271a34c-a9c2211e793422ea631a8808c48bc8e8-1700686206-1700675406
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0a/Al_mayadeen.png/revision/latest?cb=20220222132611&path-prefix=vi",Al Mayadeen
+#EXTINF:-1  group-title="MBC tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0a/Al_mayadeen.png/revision/latest?cb=20220222132611&path-prefix=vi",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 
-#EXTINF:-1 tvg-logo="",Al Mustakbal
+#EXTINF:-1  group-title="MBC tvg-logo="",Al Mustakbal
 https://tv.ipslow.com/tv487_www.elahmad.com_future/tracks-v1a1/mono.m3u8?token=e9b7ec3fb3a059aeb2019160fa16daba229cef09-4658ad086710d82a1b9aec8da0de7795-1700322187-1700311387
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png", OTV
+#EXTINF:-1  group-title="MBCx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png", OTV
 https://tv.ipslow.com/tv487_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=17b0ed3060570f28161f0b0c7746b09a0951dde7-0a53c3a115d0ba6d4544f40ef2ba88d8-1700686257-1700675457
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png", Al Jazzera Arabic
+#EXTINF:-1 group-title="MBCx" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png", Al Jazzera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png", Al Jazzera Live
+#EXTINF:-1 group-title="MBCx" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png", Al Jazzera Live
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png", National Geographic Abu Dhabi
+#EXTINF:-1  group-title="MBCx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png", National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?adtv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG", Al Manar
+#EXTINF:-1 group-title="MBCx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG", Al Manar
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.buscadero.com/wp-content/uploads/2017/05/rb-logo.png", Red Bull TV
+#EXTINF:-1 group-title="MBCx" tvg-logo="https://www.buscadero.com/wp-content/uploads/2017/05/rb-logo.png", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png",Rotana Cinema FHD
